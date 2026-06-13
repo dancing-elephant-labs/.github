@@ -16,7 +16,7 @@
 ---
 
 <h1 align="left">
-  <img src="./logo-light.svg" width="50" height="50" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="./logo-light.png" width="50" height="50" style="vertical-align: middle; margin-right: 10px;" />
   Dancing Elephant Labs
 </h1>
 
@@ -62,7 +62,10 @@ We’re especially strong where software needs to map cleanly to real operationa
   <img src="https://img.shields.io/badge/Backend-Node.js-0F172A?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs-REST%20%2F%20GraphQL-06B6D4?style=flat-square&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-AWS-1E3A8A?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Data-PostgreSQL-4338CA?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Containers-Docker-0F172A?style=flat-square&logo=docker&logoColor=white" />
 </p> -->
 
